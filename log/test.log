@@ -1,0 +1,54 @@
+
+
+Processing RenderingController#that_action (for 0.0.0.0 at 2010-01-06 16:06:28) [GET]
+Rendering other_controller/thing.html.erb
+Completed in 3ms (View: 0 | 200 OK [http://test.host/rendering/that_action]
+Rendering rendering/that_action.html.haml
+
+
+Processing RenderingController#that_action (for 0.0.0.0 at 2010-01-06 16:07:18) [GET]
+Rendering other_controller/thing.html.erb
+Completed in 2ms (View: 0 | 200 OK [http://test.host/rendering/that_action]
+Rendering rendering/that_action.html.erb
+
+
+Processing RenderingController#that_action (for 0.0.0.0 at 2010-01-06 16:08:15) [GET]
+Rendering other_controller/thing.html.erb
+Completed in 2ms (View: 0 | 200 OK [http://test.host/rendering/that_action]
+Rendering rendering/that_action.html.erb
+
+
+Processing RenderingController#that_action (for 0.0.0.0 at 2010-01-06 16:09:12) [GET]
+Rendering other_controller/thing.html.erb
+Completed in 2ms (View: 0 | 200 OK [http://test.host/rendering/that_action]
+Rendering rendering/that_action.html.erb
+
+
+Processing RenderingController#that_action (for 0.0.0.0 at 2010-01-06 16:09:40) [GET]
+Rendering other_controller/thing.html.erb
+Completed in 2ms (View: 0 | 200 OK [http://test.host/rendering/that_action]
+Rendering rendering/that_action.html.erb
+
+
+Processing RenderingController#that_action (for 0.0.0.0 at 2010-01-06 16:10:52) [GET]
+Rendering other_controller/thing.html.erb
+Completed in 2ms (View: 0 | 200 OK [http://test.host/rendering/that_action]
+Rendering rendering/that_action.html.erb
+Rendering rendering/that_action.html.erb
+
+
+Processing RenderingController#that_action (for 0.0.0.0 at 2010-01-06 16:11:33) [GET]
+Rendering other_controller/thing.html.erb
+Completed in 2ms (View: 0 | 200 OK [http://test.host/rendering/that_action]
+Rendering rendering/that_action.html.erb
+
+
+Processing RenderingController#that_action (for 0.0.0.0 at 2010-01-06 16:11:57) [GET]
+Rendering other_controller/thing.html.erb
+Completed in 2ms (View: 0 | 200 OK [http://test.host/rendering/that_action]
+Rendering rendering/that_action.html.erb
+
+
+Processing RenderingController#that_action (for 0.0.0.0 at 2010-01-06 16:12:10) [GET]
+Rendering other_controller/thing.html.erb
+Completed in 2ms (View: 0 | 200 OK [http://test.host/rendering/that_action]
